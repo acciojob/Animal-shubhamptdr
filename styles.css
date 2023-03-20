@@ -1,15 +1,13 @@
-/*  your css code here. If applicable */
-h1 {
+#photo-heading {
   text-align: center;
   color: white;
 }
 img {
   border-radius: 20px;
-  width: 32%;
+  width: 30%;
 }
 
 .container {
   background-color: #444;
-	  padding: 20px;
-
+  padding: 20px;
 }
