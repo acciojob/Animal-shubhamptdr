@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+h1 {
+  text-align: center;
+  color: white;
+}
+img {
+  border-radius: 20px;
+  width: 32%;
+}
+
+.container {
+  background-color: #444;
+	  padding: 20px;
+
+}
